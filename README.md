@@ -5,7 +5,7 @@
   Passionate about problem and puzzle solving, software development and linux
 </p>
 
-- 🎓 CComputer Science student at UniCEUB
+- 🎓 Computer Science student at UniCEUB
 - 💻 Interested in software programming and operational systems building
 - 📚 Currently learning Databases, Python and C++
 
