@@ -7,7 +7,7 @@
 
 - 🎓 Computer Science student at UniCEUB
 - 💻 Interested in software programming and operational systems building
-- 📚 Currently learning Databases, Python and C++
+- 📚 Currently learning Databases, Python, Java and C
 
 ---
 
